@@ -10,16 +10,25 @@ This project involves analyzing a music store's database using SQL queries to an
 
  
 ## Key Questions Addressed
-Senior Most Employee: Identified the most senior employee based on job titles.
-Top Billing Countries: Determined the country with the most invoices.
-Top Invoice Values: Listed the highest invoice totals.
-Best Customers: Found the customer and city contributing the most revenue.
-Genre Popularity: Analyzed the most popular genres across countries.
-Rock Music Enthusiasts: Listed all rock music listeners along with their emails.
-Top Rock Artists: Identified rock bands with the highest track counts.
-Long Tracks: Extracted songs longer than the average song length.
-Customer Spending on Artists: Determined how much each customer spent on their favorite artists.
-Top Customers per Country: Found the highest spenders in each country.
+• Senior Most Employee: Identified the most senior employee based on job titles.
+
+• Top Billing Countries: Determined the country with the most invoices.
+
+• Top Invoice Values: Listed the highest invoice totals.
+
+• Best Customers: Found the customer and city contributing the most revenue.
+
+• Genre Popularity: Analyzed the most popular genres across countries.
+
+• Rock Music Enthusiasts: Listed all rock music listeners along with their emails.
+
+• Top Rock Artists: Identified rock bands with the highest track counts.
+
+• Long Tracks: Extracted songs longer than the average song length.
+
+• Customer Spending on Artists: Determined how much each customer spent on their favorite artists.
+
+• Top Customers per Country: Found the highest spenders in each country.
  
 
  
