@@ -40,14 +40,14 @@ This project involves analyzing a music store's database using SQL queries to an
 
  
 ## Key Insights
-### Revenue Drivers:
+#### Revenue Drivers:
 
 Identified top customers and countries contributing to sales growth.
 Revealed spending trends by genre and artist.
-### Popular Genres:
+#### Popular Genres:
 
 Rock music is the leading genre globally, with detailed insights on rock listeners and artists.
-### Customer Behavior:
+#### Customer Behavior:
 
 Uncovered city-specific trends for targeted marketing strategies.
 Highlighted customers' preferences, including song duration and genre.
